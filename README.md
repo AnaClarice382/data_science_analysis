@@ -1,4 +1,3 @@
 # DataScience
 
-Repositório para o bootcamp de analista de dados... 
-Aos poucos vou organizando todos os trabalhos práticos desenvolvidos durante o bootcamp
+Esse repositório é simplesmente para compartilhar e organizar meus estudos sobre analise de dados.
