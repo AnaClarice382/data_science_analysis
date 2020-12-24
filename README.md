@@ -1,3 +1,6 @@
-# DataScience
+# Estudo de ciência de dados | Data science studies
 
-Esse repositório é simplesmente para compartilhar e organizar meus estudos sobre analise de dados.
+🎉🎉🎉 Sejam bem-vindos. | Welcome 🎉🎉🎉
+
+😊 Esse repositório é para compartilhar e organizar minhas análises exploratórias. 
+😊 This repository is for sharing and organize my analysis. 
